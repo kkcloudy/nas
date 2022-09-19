@@ -1,9 +1,3 @@
-rng-tools
-apt-transport-https
-ca-certificates
-curl
-gnupg
-vim
 git
 figlet
 i2c-tools
